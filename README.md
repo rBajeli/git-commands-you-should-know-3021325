@@ -1,7 +1,7 @@
 # 8 Git Commands You Should Know
 This is the repository for the LinkedIn Learning course 8 Git Commands You Should Know. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![8 Git Commands You Should Know][lil-thumbnail-url] [fork on my repo]
+![8 Git Commands You Should Know fork on my repo][lil-thumbnail-url]
 
 If you’re a software developer, you probably already know that Git is one of the most useful version control systems out there. But while most developers have mastered the basics of Git, it can be a bit harder to take your skills to the next level and become an advanced Git user. In this course, instructor Ronnie Sheer shows you how to make the move from intermediate Git developer to the realm of finely tuned, source control expert.
 
